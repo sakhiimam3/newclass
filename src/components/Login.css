@@ -1,0 +1,42 @@
+.loginbtn{
+    margin-left: 90px;
+}
+
+input{
+      width: 200px;
+      padding: 5px;
+}
+label{
+      font-size: 23px;
+      font-family: 'Courier New', Courier, monospace;
+      color: rgb(1, 1, 17);
+}
+
+
+.data{
+          background-color: rgb(137, 137, 151);
+          color: oldlace;
+          
+        
+}
+form{
+        width:100%;
+        margin-top: 100px;
+        background-color: blanchedalmond;       
+        font-size: 23px;
+       height: 400px;
+       
+}
+table{
+      
+      border: 2px solid white;
+      width: 420px;
+      text-align: center;
+      margin-top: 40px;
+}
+
+.header{
+          width: 100%;
+          height: 120px;
+          background:linear-gradient(blue,green,red)
+}
